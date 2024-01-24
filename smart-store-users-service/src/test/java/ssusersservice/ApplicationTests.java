@@ -1,4 +1,4 @@
-package ssb4fservice.smartstoreb4fservice;
+package ssusersservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
