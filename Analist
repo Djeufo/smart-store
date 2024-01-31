@@ -1,1 +1,11 @@
-here we will put all
+GitHub :
+GITHUB
+TOKEN : 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
+
+CMD : git remote set-url origin  https://<token>@github.com/<username>/<repo>
+
+
+git remote set-url origin  https://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@github.com/Djeufo/smart-store.git
+
+
+https://github.com/Djeufo/smart-store.git
